@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tools App</string>
+
+    <string name="open_nav_drawer">Open</string>
+    <string name="close_nav_drawer">Close</string>
+
+    <string name="machinelocation">Местонахождение</string>
+    <string name="moving">Перемещение</string>
+    <string name="table_size">Размер стола</string>
+    <string name="axiscount">Количество осе</string>
+    <string name="machinecondition">Состояние</string>
+    <string name="machines_list">Список</string>
+    <string name="profile">Профиль</string>
+    <string name="communication">Коммуникация</string>
+    <string name="share">Поделиться</string>
+    <string name="send">Отправить</string>
+    <string name="img">img</string>
+
+</resources>
